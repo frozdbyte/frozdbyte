@@ -89,21 +89,17 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=frozdbyte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozdbyte&hide_border=true&layout=compact" align="left" />  
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/01acc46d-c419-4042-9af0-a25c19fceb70.png" /></a>
+</br>
 
-<br/>  
+<br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/e2908642-ee86-46d0-80ae-2eec3af4f4b9.png" /></a>
+<br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/73fc1cb6-aaef-4fd6-80f2-1b069df37409.png" /></a>
 
-  
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=frozdbyte&&style=flat-square)  
   
 
 <br/>  
