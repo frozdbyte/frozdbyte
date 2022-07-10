@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://i.imgur.com/7lOhUE3.png" align="center" style="width: 100%" />
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" 
 </div>  
 
 - 🌱 I’m currently learning Kotlin and C++  
