@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://i.imgur.com/7lOhUE3.png" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/7KQkDFy.png" align="center" style="width: 100%" />
 </div>  
-
-- 🌱 I’m currently learning Kotlin and C++  
 
 ## Connect with me  
 <div align="center">
