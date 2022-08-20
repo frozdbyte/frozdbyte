@@ -86,6 +86,8 @@
 
 ###
 
+<h4 align="center">Other</h4>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
@@ -96,7 +98,6 @@
 
 ###
 
-<h4 align="center">Other</h4>
 
 ###
 
