@@ -103,18 +103,10 @@
 
 ###
 ## Stats  
-<
 
-<br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/01acc46d-c419-4042-9af0-a25c19fceb70.png" /></a>
-</br>
-
-<br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/e2908642-ee86-46d0-80ae-2eec3af4f4b9.png" /></a>
-<br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/73fc1cb6-aaef-4fd6-80f2-1b069df37409.png" /></a>
-
-
+Languages over the last 7 days |  Coding activity over the last 7 days          | Code editors used over the last 7 days
+:-----------------------------:|:-------------------------:|:-------------------------:
+![](https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/01acc46d-c419-4042-9af0-a25c19fceb70.png)  |  ![](https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/e2908642-ee86-46d0-80ae-2eec3af4f4b9.png) | ![](https://wakatime.com/share/@912ad583-1063-4fd9-ac91-95bbb9744692/73fc1cb6-aaef-4fd6-80f2-1b069df37409.png)
   
 
 <br/>  
