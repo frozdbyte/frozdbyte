@@ -4,7 +4,7 @@
 
 
 # 🌐 Socials
-[![Discord](https://frozd.dev/assets/img/socials/DC.svg)](https://discord.com/users/411440326427803649)
+[![Discord](https://frozd.dev/assets/img/socials/DISCORD.svg)](https://discord.com/users/411440326427803649)
 [![Instagram](https://frozd.dev/assets/img/socials/INSTA.svg)](https://instagram.com/jarok.me)
 [![BlueSky](https://frozd.dev/assets/img/socials/BSKY.svg)](https://bsky.app/profile/frozd.dev)
 [![YouTube](https://frozd.dev/assets/img/socials/YT.svg)](https://youtube.com/@frozd)
