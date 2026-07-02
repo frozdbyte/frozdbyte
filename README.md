@@ -3,17 +3,10 @@
 <br>🪄 I create highly functional web-applications, apps and backend services that I design, develop and deploy.
 
 # ✨ Featured Projects
-[![ShowMyPlay](https://frozd.dev/assets/img/socials/BANNER_SMP.png)](https://showmyplay.frozd.dev)
-### ShowMyPlay is a tool for making your spotify listening activity publicly available.
-It was created after we realized that there is no easy way to display your spotify activity on your website without a backend, so I decided to develop a tool that would make that possible for any project.
-
+[![FXKT](https://github.com/frozdbyte/FxKt/blob/main/src/main/resources/fxkt.png)](https://github.com/frozdbyte/FxKt)
+### FxKt - A Special Effects Library for PaperMC
+FxKt is a special effects library for Paper plugin development that simplifies the creation of complex & sequenced effects.
 <hr>
-
-[![TranslationEnging](https://frozd.dev/assets/img/socials/BANNER_TLE.png)](https://github.com/frozdbyte/translation-Engine)
-### TranslationEngine is a tool to easily make HTML webpages available for multiple languages.
-TranslationEngine provides an easy way to add translations to any HTML element and will automatically display that translation based on a users browser language.
-It's a very simple tool, but I wanted to have one defenitive way to do this across all my projects.
-
 
 # 🌐 Socials
 [![Discord](https://frozd.dev/assets/img/socials/DISCORD.svg)](https://discord.com/users/411440326427803649)
