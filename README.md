@@ -3,7 +3,7 @@
 <br>🪄 I create highly functional web-applications, apps and backend services that I design, develop and deploy.
 
 # ✨ Featured Projects
-[![FXKT](https://github.com/frozdbyte/FxKt/blob/main/src/main/resources/fxkt.png)](https://github.com/frozdbyte/FxKt)
+[![FXKT](./fxkt_banner.png)](https://github.com/frozdbyte/FxKt)
 ### FxKt - A Special Effects Library for PaperMC
 FxKt is a special effects library for Paper plugin development that simplifies the creation of complex & sequenced effects.
 <hr>
