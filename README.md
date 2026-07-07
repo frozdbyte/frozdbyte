@@ -7,7 +7,7 @@
 ### FxKt - A Special Effects Library for PaperMC
 FxKt is a special effects library for Paper plugin development that simplifies the creation of complex & sequenced effects.  
 <br>
-[![DiscordID](./did_banner.png)]([https://github.com/frozdbyte/FxKt](https://modrinth.com/plugin/discordid))
+[![DiscordID](./did_banner.png)](https://modrinth.com/plugin/discordid)
 ### DiscordID - Self Service Whitelist
 Secure your Minecraft server with a self-service whitelist for your discord server members that saves you time.
 <hr>
